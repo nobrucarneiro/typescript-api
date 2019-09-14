@@ -1,7 +1,7 @@
 sudo: required
 language: node_js
-notifications: 
-  email: bruno.carneiro@multivarejogpa.com.br
+notifications:
+  email: bruno.carneiro977@gmail.com
 node_js:
 - 6.11.1
 services:
